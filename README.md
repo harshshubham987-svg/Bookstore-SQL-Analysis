@@ -24,4 +24,5 @@ insights related to revenue, customer behavior, and inventory.
 - Orders.csv
 
 ## ✍️ Author
-Harsh Singh
+Harsh Shubham Singh
+
